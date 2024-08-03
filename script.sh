@@ -1,8 +1,8 @@
 #!/bin/bash
 
-name="ChatGPT"
+name="Osama"
 echo "Hello, $name!"
-if [ $name == "ChatGPT" ]; then
+if [ $name == "Osama" ]; then
     echo "Welcome to Bash scripting!"
 else
     echo "Who are you?"
