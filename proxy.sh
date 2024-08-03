@@ -1,4 +1,3 @@
-Osama — 05/16/2023 8:01 AM
 sudo su
 sudo apt -y install proxychains
 cd /etc
