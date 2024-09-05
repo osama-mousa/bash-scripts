@@ -1,4 +1,4 @@
-sudo apt -y install proxychains
-sudo apt -y install tor 
+apt -y install proxychains
+apt -y install tor 
 service tor start
 proxychains firefox
